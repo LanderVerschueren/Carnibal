@@ -1,0 +1,15 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/Lander/Desktop/Carniball/www/js/base.js",
+        "C:/Users/Lander/Desktop/Carniball/www/js/CreateJS/SoundJS-master/build/path.js",
+        "C:/Users/Lander/Desktop/Carniball/www/js/CreateJS/PreloadJS-master/src/createjs/events/ErrorEvent.js",
+        "C:/Users/Lander/Desktop/Carniball/www/js/CreateJS/PreloadJS-master/src/createjs/events/Event.js",
+        "C:/Users/Lander/Desktop/Carniball/www/js/CreateJS/PreloadJS-master/src/createjs/events/EventDispatcher.js",
+        "C:/Users/Lander/Desktop/Carniball/www/js/CreateJS/PreloadJS-master/_assets/static/alert1.js",
+        "C:/Users/Lander/Desktop/Carniball/www/js/CreateJS/PreloadJS-master/src/createjs/utils/indexOf.js",
+        "C:/Users/Lander/Desktop/Carniball/www/js/CreateJS/PreloadJS-master/src/createjs/utils/promote.js",
+        "C:/Users/Lander/Desktop/Carniball/www/js/CreateJS/PreloadJS-master/src/createjs/utils/BrowserDetect.js",
+        "C:/Users/Lander/Desktop/Carniball/www/js/index.js",
+        "C:/Users/Lander/Desktop/Carniball/www/js/bg.js"
+    ]
+}
